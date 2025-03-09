@@ -1,0 +1,8 @@
+torch
+pandas
+scikit-learn
+gradio
+opencv-python
+mediapipe
+numpy
+huggingface_hub
